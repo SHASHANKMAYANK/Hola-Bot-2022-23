@@ -1,0 +1,8 @@
+prefix=/home/shashank/catkin_ws/install
+
+Name: urdf_tut
+Description: Description of urdf_tut
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
