@@ -1,0 +1,8 @@
+prefix=/home/shashank/catkin_ws/devel
+
+Name: hola
+Description: Description of hola
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
