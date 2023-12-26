@@ -3,6 +3,8 @@
 
 In task 0 we were asked to install Ubuntu 20.04 and ROS Noetic in our systems
 After that objective of the task is to move the turtle inside the turtlesim 324 window in a vertical D shape of radius 1 unit.
+**Video of task 0 is uploaded as Task0.webm**
+
 2. Procedure
 
 Create package
@@ -538,3 +540,4 @@ That’s it!
 If the robot goes to the sequence of desired goal poses one after other (defined by you),
 Congratulations you are almost done with Task 1! :partying_face:
 
+**Video of task 1 is uploaded as Task1.webm**
