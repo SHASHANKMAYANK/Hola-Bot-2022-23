@@ -1,5 +1,6 @@
 # Hola-Bot-2022-23
-Task 0 - 
+# Task 0 
+
 In task 0 we were asked to install Ubuntu 20.04 and ROS Noetic in our systems
 After that objective of the task is to move the turtle inside the turtlesim 324 window in a vertical D shape of radius 1 unit.
 2. Procedure
@@ -56,7 +57,7 @@ Implementation
 
     Now edit the task_0.py file (navigate the clones repo to find where it is) and implement your logic. Do not forget to refer the learning resources section.
 
-**Task 1 **
+# Task 1
 
 So let’s get started with Task 1!
 
